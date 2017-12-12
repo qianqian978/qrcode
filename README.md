@@ -1,2 +1,2 @@
 # qrcode
-js自动生成二维码
+qrcode.min.js：js自动生成二维码
